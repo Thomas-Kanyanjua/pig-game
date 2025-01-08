@@ -25,7 +25,7 @@ def roll():
     x=random.randint(1,6)
     return x
 
-    turn_score
+    
 def take_turn(current_player):
     turn_score=0
     
