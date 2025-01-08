@@ -13,7 +13,7 @@ class Player():
         return f"{self.name}"
 
 max_points=100
-players=[]
+players=[ ]
 
 for player in range(no_of_players):
     player=Player(input("Enter your name: "))
